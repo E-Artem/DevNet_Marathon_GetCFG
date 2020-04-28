@@ -1,0 +1,4 @@
+host,device_type,username,password,secret
+192.168.18.134,cisco_ios,devnet,devnet,devnet
+192.168.18.135,cisco_ios,devnet,devnet,devnet
+192.168.18.136,cisco_ios,devnet,devnet,devnet
